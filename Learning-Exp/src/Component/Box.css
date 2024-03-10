@@ -1,0 +1,17 @@
+.box .b2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box .b2 h1{
+    color: rgb(58, 58, 206);
+}
+
+.box{
+    text-align: center;
+}
+.b3 button{
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+}

@@ -1,0 +1,78 @@
+.main{
+    background-image: url("../../src/assets/Background.png");
+    background-size: cover;
+    padding: 10px;
+    
+    
+}
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 40%;
+}
+.one .logo{
+    display: flex;
+
+}
+.logo img{
+    width: 30%;
+}
+
+.one .home{
+    display: flex;
+    gap: 20px;
+}
+.home a{
+    color: white;
+    text-decoration: none;
+}
+.home button{
+    background-color: yellow;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+.two{
+    display: flex;
+}
+.two .text{
+   
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: start;
+}
+.text h1{
+    font-size: 55px;
+}
+.text .slidebar{
+    width: 50%;
+
+}
+.slidebar p{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.slidebar h1{
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.slidebar button{
+    padding: 10px 20px;
+    margin-right: 10px;
+    background-color:yellow;
+    color: black;
+    border-radius: 20px;
+}
+.slidebar a{
+    color: white;
+    text-decoration: none;
+}
+.video{
+    width: 40%;
+}
+.video img{
+    width: 100%;
+}
